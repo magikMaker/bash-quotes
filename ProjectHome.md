@@ -1,0 +1,1 @@
+This gadget displays quotes from Bash.org. Bash.org has all kinds of funny quotes from IRC conversations. You can display the Top quotes, the Latest quotes or Random quotes. Check out the settings to make changes.
